@@ -1,0 +1,9 @@
+# Executables
+a.out
+hello
+
+# macOS debug files
+*.dSYM/
+
+# VS Code settings
+.vscode/
